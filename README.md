@@ -5,16 +5,16 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M EMRE BAŞARAN! 
-*Industrial Engineer & Data Scientist*
+*Industrial Engineering Student | Data Science & Machine Learning Enthusiast*
 <br /> 
 
-<p align="left">Orta Doğu Teknik Üniversitesi (ODTÜ) Endüstri Mühendisliği 4. sınıf öğrencisiyim. Veri Bilimi, Makine Öğrenmesi ve Büyüme Pazarlaması (Growth Marketing) alanlarına odaklanarak, özellikle oyun sektöründe veriye dayalı stratejiler geliştirmeyi hedefliyorum. Karmaşık iş problemlerine yönelik optimizasyon modelleri ve kestirimci analizler üzerine projeler yürütmekteyim.</p>
+<p align="left">4th-year Industrial Engineering student at Middle East Technical University (METU). Focused on Data Science, Machine Learning, and Growth Marketing, with a specific interest in the gaming industry. Experienced in developing data-driven solutions and optimization models for real-world business challenges.</p>
 
-- ✨ ODTÜ Endüstri Mühendisliği 4. Sınıf Öğrencisi.
-- 🌱 Şu anda İleri Seviye Makine Öğrenmesi ve Oyun Sektörü için Büyüme Analitiği metodolojileri üzerine derinleşiyorum.
-- 🎯 Veri içgörülerini kullanarak ürün büyümesini ve kullanıcı tutundurma (retention) oranlarını optimize etmeyi amaçlıyorum.
-- 💻 Enerji dağıtımı ve otomotiv bilişim sektörlerinde kurumsal veri departmanı deneyimine sahibim.
-- 📊 Matematiksel Modelleme, Optimizasyon ve Tahminleme Modelleri ilgi alanlarımın merkezinde yer alıyor.
+- ✨ 4th-year Industrial Engineering student at METU.
+- 🌱 Currently deep-diving into Advanced Machine Learning and Growth Marketing analytics for the gaming sector.
+- 🎯 Aiming to leverage data-driven insights to drive product growth and user retention.
+- 💻 Professional experience in energy distribution and automotive IT sectors.
+- 📊 Passionate about Mathematical Modeling, Optimization, and Predictive Analytics.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=emrebasaran1&label=Profile%20views&color=007acc&style=for-the-badge&logo=star" alt="emrebasaran1" style="padding-right:20px;" />
 </p>
@@ -46,46 +46,47 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>İleri Seviye Derin Öğrenme mimarileri ve Takviyeli Öğrenme (Reinforcement Learning) uygulamaları.</li>
-  <li>Oyun analitiğinde Growth Marketing metrikleri (LTV, CAC, Churn) ve gelişmiş A/B test metodolojileri.</li>
-  <li>Makine Öğrenmesi modellerinin Docker ve CI/CD süreçleri ile deploy edilmesi.</li>
+  <li>Advanced Deep Learning architectures and Reinforcement Learning applications.</li>
+  <li>Growth Marketing metrics (LTV, CAC, Churn) and advanced A/B testing methodologies in game analytics.</li>
+  <li>Deploying Machine Learning models using Docker and CI/CD pipelines.</li>
 </ul>
 
 ---
 
 <h2 align="center">🚀 Pʀᴏᴊᴇᴄᴛs 🚀</h2>
 
+
 ### 🔹 Mobile Game A/B Testing: Cookie Cats
-- **Açıklama:** 90.000'den fazla oyuncunun verisi üzerinden, oyun içi engel seviyelerinin (level 30 vs 40) kullanıcı tutundurma oranları üzerindeki etkisini Bootstrapping yöntemiyle analiz ettim.
-- **Teknoloji Yığını:** `Python, Pandas`
+- **Description:** Analyzed player retention data (90k+ players) using Bootstrapping to optimize game gate levels and long-term engagement.
+- **Tech Stack:** `Python, Pandas`
 
 ### 🔹 Non-Technical Loss (Theft) Detection
-- **Açıklama:** Enerjisa bünyesinde, 5 yıllık tüketim verilerini kullanarak elektrik kaçaklarını tespit etmek amacıyla Random Forest algoritması tabanlı anomali tespit modelleri geliştirdim.
-- **Teknoloji Yığını:** `Python, SQL, Scikit-learn`
+- **Description:** Developed Random Forest anomaly detection models at Enerjisa Energy using 5 years of consumption data to identify electricity theft.
+- **Tech Stack:** `Python, SQL, Scikit-learn`
 
 ### 🔹 Weather-Driven Outage Prediction
-- **Açıklama:** Meteorolojik verilerin şebeke üzerindeki etkisini analiz etmek için XGBoost ve Random Forest modelleri kurarak, hava durumuna bağlı arıza risklerini önceden tahmin eden bir sistem kurguladım.
-- **Teknoloji Yığını:** `Python, SQL, SHAP Analysis`
+- **Description:** Engineered an ETL process and ML models (XGBoost, Random Forest) to predict infrastructure risks based on meteorological factors.
+- **Tech Stack:** `Python, SQL, SHAP`
 
 ### 🔹 Project Engagement Analysis
-- **Açıklama:** Kullanıcı etkileşimini tetikleyen temel unsurları belirlemek için regresyon modelleri kurdum ve ANOVA/Ki-Kare testleri ile özellik anlamlılığını doğruladım.
-- **Teknoloji Yığını:** `R, ggplot2`
+- **Description:** Built statistical regression models and conducted hypothesis testing (ANOVA, Chi-Square) to identify drivers of user interaction.
+- **Tech Stack:** `R, ggplot2`
 
 ### 🔹 OliveGOLD Supply Chain Optimization
-- **Açıklama:** Çok aşamalı bir üretim ve dağıtım ağı için kârlılığı maksimize eden Karma Tamsayılı Programlama (MIP) modeli tasarladım ve simüle ettim.
-- **Teknoloji Yığını:** `Python, Pyomo, GLPK`
+- **Description:** Designed a Mixed-Integer Programming (MIP) model to maximize multi-echelon network profitability.
+- **Tech Stack:** `Python, Pyomo, GLPK`
 
 ### 🔹 Robotic Component Manufacturing Optimization
-- **Açıklama:** Yüksek hacimli üretim tesislerinde iş gücü ve makine kısıtlarını optimize ederek boşta kalma süresini minimize eden bir Doğrusal Programlama (LP) çatısı kurguladım.
-- **Teknoloji Yığını:** `Python, Gurobi`
+- **Description:** Implemented a Linear Programming framework using Gurobi to synchronize production schedules and resource utilization.
+- **Tech Stack:** `Python, Gurobi`
 
 ### 🔹 Surgery Room Scheduling
-- **Açıklama:** Ameliyathane gecikmelerini ve fazla mesaiyi minimize etmek amacıyla sezgisel bir çizelgeleme algoritması ve OOP tabanlı bir simülasyon aracı geliştirdim.
-- **Teknoloji Yığını:** `MATLAB, OOP`
+- **Description:** Developed a heuristic scheduling algorithm and modular OOP-based simulation tool to minimize operational delays.
+- **Tech Stack:** `MATLAB, OOP`
 
 ### 🔹 Stochastic Pandemic Transmission Model
-- **Açıklama:** Hücresel Otomatlar (Cellular Automata) kullanarak hastalık yayılım dinamiklerini simüle eden ve aşılama stratejilerinin etkinliğini ölçen stokastik bir model oluşturdum.
-- **Teknoloji Yığını:** `MATLAB`
+- **Description:** Created a grid-based Cellular Automata model to simulate infection dynamics and evaluate vaccination strategies.
+- **Tech Stack:** `MATLAB`
 
 ---
 
