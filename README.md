@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Emre%20Basaran&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
   
-  <h3>Industrial Engineering Student @ METU | Data Analyst | Operations Researcher</h3>
+  <h3>Data Scientist | Operations Researcher | Industrial Engineering Student</h3>
   
   <p>
     <a href="https://linkedin.com/in/senin-kullanici-adin" target="_blank">
@@ -17,10 +17,10 @@
 
 ### 👨‍💻 About Me
 
-Ankara merkezli bir Endüstri Mühendisliği öğrencisiyim. Üretim süreçleri, yöneylem araştırması ve veri analitiği üzerine yoğunlaşıyorum. Akademik çalışmalarımı gerçek dünya problemlerine uygulayarak tedarik zinciri optimizasyonu ve üretim sistemleri üzerine projeler geliştiriyorum.
+I am an Industrial Engineering student at Middle East Technical University (METU) with a strong focus on **Data Science** and **Operations Research**. I specialize in solving complex problems using statistical modeling, machine learning, and mathematical optimization.
 
-* **Education:** B.S. in Industrial Engineering (METU), B.A. in Business Administration (Anadolu Univ.), Assoc. in Computer Programming (Atatürk Univ.)
-* **Focus Areas:** Control Systems, Advanced Manufacturing Processes (Welding & Machining), Strategic Management.
+* **Focus Areas:** Data Analysis, Machine Learning, Supply Chain Optimization, Statistical Modelling.
+* **Education:** B.S. in Industrial Engineering (METU), B.A. in Business Administration, Assoc. in Computer Programming.
 
 ---
 
@@ -34,28 +34,23 @@ Ankara merkezli bir Endüstri Mühendisliği öğrencisiyim. Üretim süreçleri
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Data Science & Optimization Projects
 
 | Project | Description & Tech Stack |
 | :--- | :--- |
-| **OliveGold Supply Chain Optimization** | **Supply Chain Network Design** projesi. Belirsizlik altında stratejik kararlar almak için geliştirilen bir optimizasyon modeli.<br/>• **Tech:** `Python`, `Pyomo`, `Optimization`, `Pandas`<br/>• **Key Focus:** Mixed-Integer Programming, Network Design. |
-| **Project Engagement Analysis** | Kullanıcı etkileşim verilerini analiz eden kapsamlı bir veri bilimi projesi. İstatistiksel modelleme ve görselleştirme içerir.<br/>• **Tech:** `R Language`, `Data Analysis`, `Statistical Regression`<br/>• **Key Focus:** Data Visualization, Behavioral Analysis. |
-
-#### 🔬 Research & Academic Focus
-* **Manufacturing Engineering:** Fusion Welding, Ultrasonic Welding, Grinding Processes, CNC Machining.
-* **Control Systems:** Transfer Functions, Root Locus Analysis, State-Space Representations.
-* **Strategy:** TOWS Matrix Analysis, Benner Cycle Economics.
+| **OliveGold Supply Chain Optimization** | A strategic network design project using Mixed-Integer Programming to optimize supply chain decisions under uncertainty.<br/>• **Tech:** `Python`, `Pyomo`, `Pandas`, `Network Optimization` |
+| **Project Engagement Analysis** | A comprehensive data analysis project focusing on user behavior, featuring statistical regression and advanced data visualization.<br/>• **Tech:** `R`, `Tidyverse`, `Statistical Modeling`, `Data Viz` |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=emrebasaran1&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Emre's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrebasaran1&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=emrebasaran1&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Emre's GitHub Stats" />
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrebasaran1&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" />
+  
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrebasaran1&theme=light&hide_border=true" alt="GitHub Streak" />
 </div>
 
