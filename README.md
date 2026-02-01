@@ -1,5 +1,6 @@
-![Emre Başaran Banner Image](./banner.png)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Emre%20Başaran&fontSize=70&animation=fadeIn" />
+</p>
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
