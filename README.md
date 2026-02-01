@@ -9,7 +9,7 @@
 <br /> 
 
 <p align="left">
-I am a 4th-year Industrial Engineering student at Middle East Technical University (METU). I am deeply interested in Data Science and Machine Learning, with a specific focus on driving data-driven growth in the gaming industry. My expertise lies in Python and SQL for building predictive models and optimizing operational processes.
+I am a 4th-year Industrial Engineering student at Middle East Technical University (METU). I am deeply interested in Data Science and Machine Learning, with a specific focus on driving data-driven growth marketing. My expertise lies in Python and SQL for building predictive models and optimizing operational processes.
 </p>
 
 - 🎓 **Education:** 4th-year Industrial Engineering student at METU.
