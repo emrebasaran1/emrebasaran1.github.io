@@ -9,14 +9,14 @@
 <br /> 
 
 <p align="left">
-[cite_start]I am a 4th-year Industrial Engineering student at Middle East Technical University (METU). [cite: 5, 9] [cite_start]I am deeply interested in Data Science and Machine Learning, with a specific focus on driving data-driven growth in the gaming industry. [cite: 6, 7] [cite_start]My expertise lies in Python and SQL for building predictive models and optimizing operational processes. [cite: 5, 75]
+I am a 4th-year Industrial Engineering student at Middle East Technical University (METU). I am deeply interested in Data Science and Machine Learning, with a specific focus on driving data-driven growth in the gaming industry. My expertise lies in Python and SQL for building predictive models and optimizing operational processes.
 </p>
 
-- [cite_start]🎓 **Education:** 4th-year Industrial Engineering student at METU. [cite: 5, 9]
-- [cite_start]🌱 **Current Role:** Candidate Data Engineer at **Enerjisa Energy**, developing machine learning and anomaly detection solutions. [cite: 13, 22]
-- [cite_start]🎮 **Career Goal:** Pursuing a data-driven path in the gaming industry, focusing on analytics and growth marketing. [cite: 7]
-- [cite_start]📊 **Expertise:** A/B testing, infrastructure risk modeling, and strategic network optimization. [cite: 33, 43, 52]
-- [cite_start]💻 **LinkedIn:** Connect with me at [linkedin.com/in/basaranemre](https://linkedin.com/in/basaranemre). [cite: 3]
+- 🎓 **Education:** 4th-year Industrial Engineering student at METU.
+- 🌱 **Current Role:** Candidate Data Engineer at **Enerjisa Energy**, developing machine learning and anomaly detection solutions.
+- 🎮 **Career Goal:** Pursuing a data-driven path in the gaming industry, focusing on analytics and growth marketing.
+- 📊 **Expertise:** A/B testing, infrastructure risk modeling, and strategic network optimization.
+- 💻 **LinkedIn:** Connect with me at [linkedin.com/in/basaranemre](https://linkedin.com/in/basaranemre).
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=emrebasaran1&label=Profile%20views&color=blue&style=for-the-badge&logo=star" alt="emrebasaran1" />
 </p>
@@ -33,7 +33,7 @@
 
 <h3 align="left">Data Science & Analytics</h3>
 <p align="left">
-  [cite_start]<code>Machine Learning</code> <code>Anomaly Detection</code> <code>Predictive Modeling</code> <code>Statistical Analysis</code> <code>A/B Testing</code> [cite: 75, 76]
+  <code>Machine Learning</code> <code>Anomaly Detection</code> <code>Predictive Modeling</code> <code>Statistical Analysis</code> <code>A/B Testing</code>
 </p>
 
 <h3 align="left">Programming & Tools</h3>
@@ -43,17 +43,17 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  [cite_start]<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> [cite: 75, 76]
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
 <h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs 🚀</h2>
 
-- [cite_start]**Mobile Game A/B Testing (Cookie Cats):** Analyzed gate placement impact on player retention using Bootstrapping (1,000 iterations) for 90,000+ players. [cite: 28, 33]
-- [cite_start]**Predictive Anomaly Detection:** Developed Random Forest models for theft detection in energy distribution using Python and SQL. [cite: 35, 38]
-- [cite_start]**Infrastructure Risk Modeling:** Built XGBoost and SHAP-based models to predict grid outages driven by extreme weather factors. [cite: 40, 43, 44]
-- [cite_start]**Supply Chain Optimization:** Engineered Mixed-Integer Programming (MIP) models using Pyomo to maximize network profitability. [cite: 51, 52, 54]
+- **Mobile Game A/B Testing (Cookie Cats):** Analyzed gate placement impact on player retention using Bootstrapping (1,000 iterations) for 90,000+ players.
+- **Predictive Anomaly Detection:** Developed Random Forest models for theft detection in energy distribution using Python and SQL.
+- **Infrastructure Risk Modeling:** Built XGBoost and SHAP-based models to predict grid outages driven by extreme weather factors.
+- **Supply Chain Optimization:** Engineered Mixed-Integer Programming (MIP) models using Pyomo to maximize network profitability.
 
 ---
 
@@ -86,15 +86,15 @@
 <div align="center">
   
 <a href="mailto:emrebasaranwork@gmail.com" target="_blank">
-[cite_start]<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> [cite: 1]
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://linkedin.com/in/basaranemre" target="_blank">
-[cite_start]<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> [cite: 3]
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/emrebasaran1" target="_blank">
-[cite_start]<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> [cite: 3]
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
