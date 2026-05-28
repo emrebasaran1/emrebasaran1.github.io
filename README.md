@@ -87,13 +87,6 @@
 
 ---
 
-<h2 align="center">📈 Cᴏɴɴᴇᴄᴛɪᴏɴ & Aᴄᴛɪᴠɪᴛʏ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emrebasaran1&bg_color=ffffff&color=007acc&line=007acc&point=007acc&area=true&hide_border=false" border-radius="15">
-</div>
-
----
-
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
