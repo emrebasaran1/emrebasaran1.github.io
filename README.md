@@ -57,10 +57,6 @@
 <h2 align="center">🚀 Pʀᴏᴊᴇᴄᴛs 🚀</h2>
 
 
-### 🔹 Mobile Game A/B Testing: Cookie Cats
-- **Description:** Analyzed player retention data (90k+ players) using Bootstrapping to optimize game gate levels and long-term engagement.
-- **Tech Stack:** `Python, Pandas`
-
 ### 🔹 Non-Technical Loss (Theft) Detection
 - **Description:** Developed Random Forest anomaly detection models at Enerjisa Energy using 5 years of consumption data to identify electricity theft.
 - **Tech Stack:** `Python, SQL, Scikit-learn`
