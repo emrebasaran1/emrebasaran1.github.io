@@ -9,7 +9,7 @@
 *Industrial Engineering Student*
 <br /> 
 
-<p align="left">4th-year Industrial Engineering student at Middle East Technical University (METU). Focused on Data Science, Machine Learning, and Growth Marketing, with a specific interest in the gaming industry. Experienced in developing data-driven solutions and optimization models for real-world business challenges.</p>
+<p align="left">4th-year Industrial Engineering student at Middle East Technical University (METU). Focused on Data Science, Machine Learning. Experienced in developing data-driven solutions and optimization models for real-world business challenges.</p>
 
 - ✨ 4th-year Industrial Engineering student at METU.
 - 🌱 Currently deep-diving into Advanced Machine Learning and Growth Marketing analytics for the gaming sector.
