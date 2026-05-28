@@ -6,7 +6,7 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M EMRE BAŞARAN! 
-*Industrial Engineering Student | Data Science & Machine Learning Enthusiast*
+*Industrial Engineering Student*
 <br /> 
 
 <p align="left">4th-year Industrial Engineering student at Middle East Technical University (METU). Focused on Data Science, Machine Learning, and Growth Marketing, with a specific interest in the gaming industry. Experienced in developing data-driven solutions and optimization models for real-world business challenges.</p>
