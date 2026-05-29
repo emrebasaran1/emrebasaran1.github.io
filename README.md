@@ -44,10 +44,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
----
 
 <h2 align="center">🚀 Pʀᴏᴊᴇᴄᴛs 🚀</h2>
-
 
 ### 🔹 Non-Technical Loss (Theft) Detection
 - **Description:** Developed Random Forest anomaly detection models at Enerjisa Energy using 5 years of consumption data to identify electricity theft.
