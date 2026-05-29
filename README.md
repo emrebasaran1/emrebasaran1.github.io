@@ -44,14 +44,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Advanced Deep Learning architectures and Reinforcement Learning applications.</li>
-  <li>Growth Marketing metrics (LTV, CAC, Churn) and advanced A/B testing methodologies in game analytics.</li>
-  <li>Deploying Machine Learning models using Docker and CI/CD pipelines.</li>
-</ul>
-
 ---
 
 <h2 align="center">🚀 Pʀᴏᴊᴇᴄᴛs 🚀</h2>
